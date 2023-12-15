@@ -1,0 +1,2 @@
+# docs
+Academy documentation
