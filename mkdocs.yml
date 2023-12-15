@@ -3,11 +3,6 @@ site_name: CBF Academy Student Handbook
 site_description: >-
   CBF Academy Student Handbook
 
-# Hooks
-hooks:
-  - material/overrides/hooks/shortcodes.py
-  - material/overrides/hooks/translations.py
-
 # Additional configuration
 extra:
   status:
