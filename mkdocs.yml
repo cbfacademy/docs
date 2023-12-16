@@ -3,6 +3,9 @@ site_name: CBF Academy Student Handbook
 site_description: >-
   CBF Academy Student Handbook
 
+theme:
+  name: material
+
 # Additional configuration
 extra:
   status:
