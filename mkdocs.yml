@@ -17,8 +17,8 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/cbfacademy
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/CodingBlackFemales
+    - icon: fontawesome/solid/globe
+      link: https://academy.codingblackfemales.com
 
 # Page tree
 nav:
