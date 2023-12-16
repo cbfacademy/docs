@@ -21,4 +21,5 @@ extra:
 nav:
   - Home: index.md
   - Resources:
-    - Personal Portfolios: resources/Personal Portfolios.md
+    - Personal Portfolios: resources/personal-portfolios.md
+    - Spring Boot: resources/spring-boot.md
